@@ -1,4 +1,29 @@
-# ClaimPilot AI — Technical Documentation
+# ClaimPilot AI — Final Submission & Technical Documentation
+
+**Candidate Name:** [Your Name Here]
+**Date:** June 5, 2026
+
+---
+
+## Deliverable Links
+
+### 1. GitHub Repository
+https://github.com/hemanth-sai-2203/claimagent-ai
+*(Ensure the repository is set to Public)*
+
+### 2. Deployed Application
+**Frontend:** https://claimagent-ai-frontend.vercel.app/
+*(Backend API hosted at: https://claimagent-ai.onrender.com)*
+
+### 3. Project Source Code (Google Drive)
+[Paste your Google Drive folder link here]
+*(Ensure the sharing permission is set to "Anyone with the link can view")*
+
+### 4. Demo Video (YouTube)
+[Paste your YouTube video link here]
+*(Ensure the video visibility is set to "Public" or "Unlisted")*
+
+---
 
 ## Project Overview
 
