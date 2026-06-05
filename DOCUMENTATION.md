@@ -9,19 +9,19 @@
 
 ### 1. GitHub Repository
 https://github.com/hemanth-sai-2203/claimagent-ai
-*(Ensure the repository is set to Public)*
+
 
 ### 2. Deployed Application
 **Frontend:** https://claimagent-ai-frontend.vercel.app/
-*(Backend API hosted at: https://claimagent-ai.onrender.com)*
+**Backend API:** https://claimagent-ai.onrender.com
+
 
 ### 3. Project Source Code (Google Drive)
-[Paste your Google Drive folder link here]
-*(Ensure the sharing permission is set to "Anyone with the link can view")*
+https://drive.google.com/drive/folders/1S9HYYGdCu4tB1i4ARjAX4POdfjcg27lU?usp=sharing
 
-### 4. Demo Video (YouTube)
-[Paste your YouTube video link here]
-*(Ensure the video visibility is set to "Public" or "Unlisted")*
+
+### 4. Demo Video (drive link)
+https://drive.google.com/drive/folders/1Ym6RPt53WBTcjxmfcHvLbZ3o5TFeL_Bd?usp=sharing
 
 ---
 
