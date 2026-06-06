@@ -21,7 +21,7 @@ https://drive.google.com/drive/folders/1S9HYYGdCu4tB1i4ARjAX4POdfjcg27lU?usp=sha
 
 
 ### 4. Demo Video (drive link)
-https://drive.google.com/drive/folders/1Ym6RPt53WBTcjxmfcHvLbZ3o5TFeL_Bd?usp=sharing
+
 
 ---
 
