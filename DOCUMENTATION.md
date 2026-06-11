@@ -47,7 +47,7 @@ Every claim produces a full audit trail showing which rule passed or failed and 
 | AI / Extraction | Google Gemini 2.5 Flash | Multimodal structured JSON output, `temperature=0` |
 | Frontend | Next.js 15 (App Router) + TypeScript | Role-aware UI (User / Officer roles) |
 | Styling | Tailwind CSS | |
-| Deployment | Vercel (Frontend) + Railway (Backend) | |
+| Deployment | Vercel (Frontend) + Render (Backend) | |
 
 ---
 
